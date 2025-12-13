@@ -1,0 +1,5 @@
+{
+  "name": "Lazy Coder",
+  "description": "Convert architecture diagrams into Terraform Infrastructure as Code using multi-agent AI.",
+  "requestFramePermissions": []
+}
